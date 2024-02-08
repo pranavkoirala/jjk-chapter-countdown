@@ -1,0 +1,36 @@
+body {
+    background-color: #9b8ab4;
+    font-family: 'Mali', cursive;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    place-content: center;
+    text-align: center;
+}
+
+.chapter-info,
+.break-chapter-info {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    width: 40%;
+    background-color: #27254c;
+    color: #fff;
+    padding: 0.5%;
+    margin: 1% 0;
+    border-radius: 15px;
+    font-size: 2rem;
+}
+
+h1 {
+    margin-top: 15%;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+    color: #27254c;
+}
+
+
+.next-chapter-date,
+.next-chapter-date-break {
+    color: yellow;
+}
